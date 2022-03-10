@@ -17,12 +17,12 @@
 - I used a script ajax file it is free available on google.
 - All buttons and links are hover.
 - Fully responsive page.
-- 
+- I used a jquery file.
 ## Demo
 
 
 ## Live Link
-- Pooja-saini467()
+- Pooja-saini467(https://pooja-saini467.github.io/Doctor-website/)
 ## My Process
 ## Build With
 - html5
